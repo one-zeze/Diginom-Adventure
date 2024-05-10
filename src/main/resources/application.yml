@@ -1,6 +1,0 @@
-springdoc:
-  swagger-ui:
-    path: 'diginom-api-docs'
-
-  api-docs:
-    path: /api-docs
