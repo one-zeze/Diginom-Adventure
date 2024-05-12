@@ -8,7 +8,6 @@ build/
 ### Cloud ###
 .cloud
 *.pem
-*.yml
 
 ### STS ###
 .apt_generated
