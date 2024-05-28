@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class PageController {
     
-    @GetMapping("/")
-    @Operation(description = "paging to index.html")
-    public String index(){
-        return "index";
-    }
+//    @GetMapping("/")
+//    @Operation(description = "paging to test.html")
+//    public String index(){
+//        return "index";
+//    }
 }
